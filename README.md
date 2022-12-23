@@ -2,4 +2,4 @@
 - 🎓 I'm a 3rd year computer science engineering student
 - 👀 I'm interested in full stack development
 - I'm currently learning Web dev and App dev
-- For hobbies, I play guitar and listen to music
+- For hobbies, I play guitar, music and book reading
