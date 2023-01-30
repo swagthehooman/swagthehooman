@@ -1,4 +1,4 @@
 - 👋 Hola!, I'm @swagthehooman aka, Swagnik
-- 🎓 I'm a computer science engineering student ans is interested in full stack development
+- 🎓 I'm a computer science engineering student and is interested in full stack development
 - Currently learning Web dev and App dev
 - For hobbies, I play guitar, music and book reading
