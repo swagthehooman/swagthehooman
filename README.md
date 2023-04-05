@@ -1,6 +1,13 @@
-## Hola!!
+## Hola!! I'm Swagnik :)
 
+![IMG_20230325_003458](https://user-images.githubusercontent.com/104345028/230165518-29b84ac1-6d2f-4b15-85e0-9f2503a853bb.jpg)
 
+## Links
+- [About me](#ABOUT-ME)
+- [Languages](##Programming-Languages)
+- [Frameworks and Libraries](##Frameworks-and-libraries)
+- [Find me](#Find-me-on:)
+- [Contact](#Contact-me:)
 
 # ABOUT ME
 - 👋 Hola!, I'm @swagthehooman aka, ***Swagnik***
@@ -12,7 +19,7 @@
 ## Programming Languages
 ![javascriptLogo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-## Frameworks
+## Frameworks and libraries
 
 ### Mobile framework
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -42,17 +49,17 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![RaspberryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 
-## Find me on:
+# Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swagnikdas)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swagthehooman)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/SwagnikDas)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
-## Contact me:
+# Contact me:
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 
-### Activity
+# Activity
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swagthehooman)
 ![profilesummary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagthehooman)
