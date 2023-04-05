@@ -1,6 +1,7 @@
 ## Hola!! I'm Swagnik :)
 
-![IMG_20230325_003458](https://user-images.githubusercontent.com/104345028/230165518-29b84ac1-6d2f-4b15-85e0-9f2503a853bb.jpg)
+![cover image](https://user-images.githubusercontent.com/104345028/230170159-a3f7f208-d2af-4441-9ec4-d7a4d5580b4a.jpeg)
+
 
 ## Links
 - [About me](#ABOUT-ME)
