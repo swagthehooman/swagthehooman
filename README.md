@@ -4,8 +4,8 @@
 
 ## Links
 - [About me](#ABOUT-ME)
-- [Languages](##Programming-Languages)
-- [Frameworks and Libraries](##Frameworks-and-libraries)
+- [Languages](#Programming-Languages)
+- [Frameworks and Libraries](#Frameworks-and-libraries)
 - [Find me](#Find-me-on:)
 - [Contact](#Contact-me:)
 
