@@ -1,6 +1,7 @@
 ## Hola!! I'm Swagnik :)
 
-![cover image](https://user-images.githubusercontent.com/104345028/230170159-a3f7f208-d2af-4441-9ec4-d7a4d5580b4a.jpeg)
+![Hello! I'm Swagnik Das  I hope you are doing great!!](https://user-images.githubusercontent.com/104345028/230171244-62e4e36d-f4c5-4b2d-a897-d192b0b13fea.png)
+
 
 
 ## Links
